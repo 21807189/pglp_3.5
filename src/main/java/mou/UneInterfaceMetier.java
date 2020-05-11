@@ -2,6 +2,6 @@ package mou;
 
 public interface UneInterfaceMetier {
 	
-	public void affiche(String string);
-
+public void afficher(String string);
+	
 }
